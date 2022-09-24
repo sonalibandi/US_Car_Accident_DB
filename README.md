@@ -6,13 +6,17 @@
 ## Description
 
 This database comprises US accident data collected from February 2016 to December 2021, covering 49 states and utilising numerous APIs that give live traffic event data. 
-A number of intrinsic and contextual attributes, including severity, location, time, temperature, humidity, visibility, crossing etc. are included in each accident record. This database aids in our understanding of how the aforementioned factors affect accidents.
+The dataset contains about 35 thousand records. A number of intrinsic and contextual attributes, including severity, location, time, temperature, humidity, visibility, crossing etc. are included in each accident record. This database aids in our understanding of how the aforementioned factors affect accidents.
 
 
 ## Objective
 
 Reducing road accidents is a significant challenge for public safety.
-This database can be used to predict car accidents in real time, locate accident hotspots, and avoid accidents by determining how weather or other environmental factors affect accident occurrence.
+This database can be used to 
+- Predict car accidents in real time
+- Locate accident hotspots
+- Avoid accidents by determining how weather or other environmental factors affect accident occurrence
+- Extract cause and effect rules related to the accident
 
 
 ## Data Sources
